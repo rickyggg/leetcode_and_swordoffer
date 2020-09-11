@@ -8,4 +8,4 @@
 
 ## List
 
-*[q2_add_two_numbers](./2_add_two_numbers.cpp)
+* [q2_add_two_numbers](./2_add_two_numbers.cpp)
