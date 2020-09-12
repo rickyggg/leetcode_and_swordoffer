@@ -9,3 +9,13 @@
 ## List
 
 * [q2_add_two_numbers](./2_add_two_numbers.cpp)
+
+* [q19_remove_nth_node](./19_remove_nth_node.cpp)
+
+* [q25_reverse_nodes_in_k](./25_reverse_nodes_in_k.cpp)
+
+* [q61_rotates_list](./61_rotate_list.cpp)
+
+## 双指针
+
+* [q26_remove_duplicates](./26_remove_duplicates.cpp)
