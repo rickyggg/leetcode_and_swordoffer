@@ -18,8 +18,8 @@ public:
       l2 = l2 ? l2->next : nullptr;
     }
     if (carry > 0) {
-      ListNode *l = new ListNode(carry);
-      p->next = l;
+      ListNode *last_node = new ListNode(carry);
+      p->next = last_node;
     }
     return head->next;
   }
