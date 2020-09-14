@@ -24,5 +24,15 @@
 
 * [q3_longest_substr_without_repeat](./3_longest_substr_without_repeat.cpp)
 
+* [q11_container_with_most_water](./11_container_with_most_water.cpp)
+
+* [q15_3_sum.cpp](./15_3_sum.cpp)
+
+* [q16_3_sum_closest.cpp)(./16_3_sum_cloest.cpp)_* [q11_container_with_most_water](./11_container_with_most_water.cpp)
+
+* [q15_3_sum.cpp](./15_3_sum.cpp)
+
+* [q16_3_sum_closest.cpp](./16_3_sum_cloest.cpp)_
+
 * [q26_remove_duplicates](./26_remove_duplicates.cpp)
 
