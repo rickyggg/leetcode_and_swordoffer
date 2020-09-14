@@ -26,8 +26,8 @@
 
 * [q11_container_with_most_water](./src/11_container_with_most_water.cpp)
 
-* [q15_3_sum.cpp](./src/15_3_sum.cpp)
+* [q15_3_sum](./src/15_3_sum.cpp)
 
-* [q16_3_sum_closest.cpp](./src/16_3_sum_cloest.cpp)
+* [q16_3_sum_closest](./src/16_3_sum_cloest.cpp)
 
 * [q26_remove_duplicates](./src/26_remove_duplicates.cpp)
