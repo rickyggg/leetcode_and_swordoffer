@@ -16,6 +16,13 @@
 
 * [q61_rotates_list](./61_rotate_list.cpp)
 
+* [q138_copy_list_with_randomp](./138_copy_list_with_randomp.cpp)
+
+* [q206_reverse_linked_list](./206_reverse_linked_list.cpp)
+
 ## 双指针
 
+* [q3_longest_substr_without_repeat](./3_longest_substr_without_repeat.cpp)
+
 * [q26_remove_duplicates](./26_remove_duplicates.cpp)
+
