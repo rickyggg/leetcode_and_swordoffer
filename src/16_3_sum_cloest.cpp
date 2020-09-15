@@ -10,8 +10,7 @@ public:
       int second = n - 1;
       while (first < second) {
         int sum = nums[i] + nums[first] + nums[second];
-        distance = sum - target;
-        if (abs(distance) < abs(res - target)) {
+        if (abs(sum - target) < abs(res - target)) {
           res = sum;
         }
         if (sum < target) {
