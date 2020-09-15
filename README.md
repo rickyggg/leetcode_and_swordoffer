@@ -31,3 +31,9 @@
 * [q16_3_sum_closest](./src/16_3_sum_cloest.cpp)
 
 * [q26_remove_duplicates](./src/26_remove_duplicates.cpp)
+
+* [q42_trapping_rain](./src/42_trapping_rain.cpp)
+
+* [q121_best_time_to_buy_stock](./src/121_best_time_to_buy_stock.cpp)
+
+* [q209_minimum_size_subarray](./src/209_minimum_size_subarray.cpp)
