@@ -6,7 +6,7 @@
 
 * [q387_first](./src/387_first_unique_character.cpp)
 
-## List
+## 链表
 
 * [q2_add_two_numbers](./src/2_add_two_numbers.cpp)
 
@@ -45,3 +45,13 @@
 * [q202_happy_number](./src/202_happy_number.cpp)
 
 * [q876_middle_of_the_linked_list](./src/876_middle_of_the_linked_list.cpp)
+
+## 区间合并
+
+* [q56_merge_intervals](./src/56_merge_intervals.cpp)
+
+## 字符串操作
+
+* [q6_zigzag_conversion](./src/6_zigzag_conversion.cpp)
+
+* [q14_longest_common_prefix](./src/14_longest_common_prefix.cpp)
