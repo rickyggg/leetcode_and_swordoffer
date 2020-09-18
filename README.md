@@ -55,3 +55,11 @@
 * [q6_zigzag_conversion](./src/6_zigzag_conversion.cpp)
 
 * [q14_longest_common_prefix](./src/14_longest_common_prefix.cpp)
+
+* [q763_partition_labels](./src/763_partition_labels.cpp)
+
+## 数字操作
+
+* [q7_reverse_integer](./src/7_reverse_integer.cpp)
+
+* [q8_atoi](./src/8_atoi.cpp)
