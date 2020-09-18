@@ -12,7 +12,7 @@ public:
           return prefix;
         ++j;
       }
-      if (j == strs.size())
+      if (j == n)
         prefix += strs[0][i];
     }
     return prefix;
