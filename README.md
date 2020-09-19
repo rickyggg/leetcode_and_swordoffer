@@ -63,3 +63,9 @@
 * [q7_reverse_integer](./src/7_reverse_integer.cpp)
 
 * [q8_atoi](./src/8_atoi.cpp)
+
+* [q9_palindrome_number](./src/9_palindrome_number.cpp)
+
+* [q43_multiply_string](./src/43_multiply_string.cpp)
+
+* [172_factorial_trailing_zeroes](./src/172_factorial_trailing_zeroes.cpp)
