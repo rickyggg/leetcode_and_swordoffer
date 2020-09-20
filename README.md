@@ -68,4 +68,12 @@
 
 * [q43_multiply_string](./src/43_multiply_string.cpp)
 
-* [172_factorial_trailing_zeroes](./src/172_factorial_trailing_zeroes.cpp)
+* [q172_factorial_trailing_zeroes](./src/172_factorial_trailing_zeroes.cpp)
+
+* [q258_add_digits](./src/258_add_digits.cpp)
+
+## 数组操作
+
+* [q54_spiral_matrix](./src/54_spiral_matrix.cpp)
+
+* [q78_subsets](./src/78_subsets.cpp)
