@@ -78,6 +78,6 @@
 
 * [q78_subsets](./src/78_subsets.cpp)
 
-* [q581_shortest_unordered_continuous_subarray](./src/581_shortest_unordered_continuous_subarray)
+* [q581_shortest_unordered_continuous_subarray](./src/581_shortest_unordered_continuous_subarray.cpp)
 
 * [q945_minimum_increment_to_make_array_unique](./src/945_minimum_increment_to_make_array_unique.cpp)
