@@ -77,3 +77,7 @@
 * [q54_spiral_matrix](./src/54_spiral_matrix.cpp)
 
 * [q78_subsets](./src/78_subsets.cpp)
+
+* [q581_shortest_unordered_continuous_subarray](./src/581_shortest_unordered_continuous_subarray)
+
+* [q945_minimum_increment_to_make_array_unique](./src/945_minimum_increment_to_make_array_unique.cpp)
