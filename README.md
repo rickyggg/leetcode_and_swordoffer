@@ -81,3 +81,11 @@
 * [q581_shortest_unordered_continuous_subarray](./src/581_shortest_unordered_continuous_subarray.cpp)
 
 * [q945_minimum_increment_to_make_array_unique](./src/945_minimum_increment_to_make_array_unique.cpp)
+
+## Stack
+
+* [q20_valid_parentheses](./src/20_valid_parentheses.cpp)
+
+* [q32_longest_valid_parentheses](./src/32_longest_valid_parentheses.cpp)
+
+* [q155_min_stack](./src/155_min_stack.cpp)
