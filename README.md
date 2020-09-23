@@ -89,3 +89,9 @@
 * [q32_longest_valid_parentheses](./src/32_longest_valid_parentheses.cpp)
 
 * [q155_min_stack](./src/155_min_stack.cpp)
+
+* [q224_basic_calculator](./src/224_basic_calculator.cpp)
+
+* [q232_implement_queue_using_stacks](./src/232_implement_queue_using_stacks.cpp)
+
+* [q316_remove_duplicate_letters](./src/316_remove_duplicate_letters.cpp)
