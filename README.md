@@ -95,3 +95,9 @@
 * [q232_implement_queue_using_stacks](./src/232_implement_queue_using_stacks.cpp)
 
 * [q316_remove_duplicate_letters](./src/316_remove_duplicate_letters.cpp)
+
+## Heap
+
+* [q215_kth_largest_element](./src/215_kth_largest_element_Heap.cpp)
+
+* [q347_top_k_frequent_elements](./src/347_top_k_frequent_elements.cpp)
