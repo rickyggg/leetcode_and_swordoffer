@@ -113,3 +113,11 @@
 * [q226_invert_binary_tree](./src/226_invert_binary_tree.cpp)
 
 * [q236_lowest_common_ancestor_of_binary_tree](./src/236_lowest_common_ancestor_of_binary_tree.cpp)
+
+## 分治
+
+* [q23_merge_k_sorted_lists](./src/23_merge_k_sorted_lists.cpp)
+
+* [q33_search_in_rotated_sorted_array](./src/33_search_in_rotated_sorted_array.cpp)
+
+* [q34_find_first_and_last_position_of_element_in_sorted_array](./src/34_find_first_and_last_position_of_element_in_sorted_array.cpp)
