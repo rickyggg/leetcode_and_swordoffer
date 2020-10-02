@@ -121,3 +121,7 @@
 * [q33_search_in_rotated_sorted_array](./src/33_search_in_rotated_sorted_array.cpp)
 
 * [q34_find_first_and_last_position_of_element_in_sorted_array](./src/34_find_first_and_last_position_of_element_in_sorted_array.cpp)
+
+## 动态规划
+
+* [q5_longest_palindromic_substring](5_longest_palindromic_substring.cpp)
