@@ -16,7 +16,7 @@ public:
         max_l = 2;
       }
     }
-    for (int l = 3; l <= len; l++) {
+    for (int l = 3; l <= len; ++l) {
       for (int i = 0; i + l - 1 < len; ++i) {
         int j = i + l - 1;
         if (s[i] == s[j] && dp[i + 1][j - 1]) {
