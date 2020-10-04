@@ -124,4 +124,10 @@
 
 ## 动态规划
 
-* [q5_longest_palindromic_substring](5_longest_palindromic_substring.cpp)
+* [q5_longest_palindromic_substring](./src/5_longest_palindromic_substring.cpp)
+
+* [q53_maximum_subarray](./src/53_maximum_subarray.cpp)
+
+* [q62_unique_paths](./src/62_unique_paths.cpp)
+
+* [q64_minimum_path_sum](./src/64_minimum_path_sum.cpp)
