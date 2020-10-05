@@ -131,3 +131,11 @@
 * [q62_unique_paths](./src/62_unique_paths.cpp)
 
 * [q64_minimum_path_sum](./src/64_minimum_path_sum.cpp)
+
+* [q70_climbing_stairs](./src/70_climbing_stairs.cpp)
+
+* [q118_pascals_triangle](./src/118_pascals_triangle.cpp)
+
+* [q300_longest_increasing_subsequence](./src/300_longest_increasing_subsequence.cpp)
+
+* [q1143_longest_common_subsequence](./src/1143_longest_common_subsequence.cpp)
