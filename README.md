@@ -139,3 +139,13 @@
 * [q300_longest_increasing_subsequence](./src/300_longest_increasing_subsequence.cpp)
 
 * [q1143_longest_common_subsequence](./src/1143_longest_common_subsequence.cpp)
+
+## 回溯
+
+* [q10_regular_expression_matching](./src/10_regular_expression_matching.cpp)
+
+* [q22_generate_parentheses](./src/22_generate_parentheses.cpp)
+
+* [q40_combination_sum_ii](./src/40_combination_sum_ii.cpp)
+
+* [q46_permutations](./src/46_permutations.cpp)
