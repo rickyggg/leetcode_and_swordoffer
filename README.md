@@ -149,3 +149,19 @@
 * [q40_combination_sum_ii](./src/40_combination_sum_ii.cpp)
 
 * [q46_permutations](./src/46_permutations.cpp)
+
+## 字典树（Trie）
+
+* [q648_replace_words](./src/648_replace_words.cpp)
+
+## 树的遍历
+
+* [q94_binary_tree_inorder_traversal](./src/94_binary_tree_inorder_traversal.cpp)
+
+* [q102_binary_tree_level_order_traversal](./src/102_binary_tree_level_order_traversal.cpp)
+
+* [q110_balanced_binary_tree](./src/110_balanced_binary_tree.cpp)
+
+* [q144_binary_tree_preorder_traversal](./src/144_binary_tree_preorder_traversal.cpp)
+
+* [q145_binary_tree_postorder_traversal](./src/145_binary_tree_postorder_traversal.cpp)
