@@ -24,8 +24,9 @@ public:
                    true) { // if a shorter root exists, we just stop build
           cur = nullptr;
           break;
-        } else
+        } else {
           cur = cur->next[c - 'a'];
+        }
       }
       if (cur != nullptr) { // mark the string and flag
         cur->isword = true;
@@ -37,7 +38,7 @@ public:
   string replace(string s) {
     TrieNode *cur = root;
     string res = "";
-    for (char c : s) {
+    for (const char &c : s) {
       cur = cur->next[c - 'a'];
       if (cur == nullptr)
         break;
@@ -48,7 +49,8 @@ public:
     }
     if (res != "")
       return res;
-    return s;
+    else
+      return s;
   }
 
 private:
@@ -70,4 +72,3 @@ public:
     return res.substr(0, res.size() - 1);
   }
 };
-
