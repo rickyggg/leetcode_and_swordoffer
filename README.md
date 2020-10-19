@@ -38,6 +38,8 @@
 
 * [q209_minimum_size_subarray](./src/209_minimum_size_subarray.cpp)
 
+* [q283_move_zeroes](./src/283_move_zeroes.cpp)
+
 ## 快慢指针
 
 * [q141_linked_list_cycle](./src/141_linked_list_cycle.cpp)
@@ -114,13 +116,15 @@
 
 * [q236_lowest_common_ancestor_of_binary_tree](./src/236_lowest_common_ancestor_of_binary_tree.cpp)
 
-## 分治
+## 分治/二分查找
 
 * [q23_merge_k_sorted_lists](./src/23_merge_k_sorted_lists.cpp)
 
 * [q33_search_in_rotated_sorted_array](./src/33_search_in_rotated_sorted_array.cpp)
 
 * [q34_find_first_and_last_position_of_element_in_sorted_array](./src/34_find_first_and_last_position_of_element_in_sorted_array.cpp)
+
+* [q410_split_array_largest_sum](./src/410_split_array_largest_sum.cpp)
 
 ## 动态规划
 
