@@ -84,7 +84,7 @@
 
 * [q945_minimum_increment_to_make_array_unique](./src/945_minimum_increment_to_make_array_unique.cpp)
 
-## Stack
+## 栈
 
 * [q20_valid_parentheses](./src/20_valid_parentheses.cpp)
 
@@ -98,7 +98,15 @@
 
 * [q316_remove_duplicate_letters](./src/316_remove_duplicate_letters.cpp)
 
-## Heap
+## 单调栈
+
+* [q496_next_greater_element_i](./src/496_next_greater_element_i.cpp)
+
+* [q503_next_greater_element_ii](./src/503_next_greater_element_ii.cpp)
+
+* [q1118_number_of_days_in_a_month](./src/1118_number_of_days_in_a_month.cpp)
+
+## 堆
 
 * [q215_kth_largest_element](./src/215_kth_largest_element_Heap.cpp)
 
