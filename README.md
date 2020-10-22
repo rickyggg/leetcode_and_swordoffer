@@ -162,6 +162,8 @@
 
 * [q46_permutations](./src/46_permutations.cpp)
 
+* [q47_permutations_ii](./src/47_permutations_ii.cpp)
+
 ## 字典树（Trie）
 
 * [q648_replace_words](./src/648_replace_words.cpp)
