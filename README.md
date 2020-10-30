@@ -136,4 +136,6 @@
 
 ## 剑指Offer
 
-* [3.数组中重复的数字](./src/swordoffer/3.数组中重复的数字.cpp)
+* [3_数组中重复的数字](./src/swordoffer/3_数组中重复的数字.cpp)
+* [5_替换空格](./src/swordoffer/5_替换空格.cpp)
+* [7_重建二叉树](./src/swordoffer/7_重建二叉树.cpp)
