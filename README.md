@@ -139,3 +139,6 @@
 * [3_数组中重复的数字](./src/swordoffer/3_数组中重复的数字.cpp)
 * [5_替换空格](./src/swordoffer/5_替换空格.cpp)
 * [7_重建二叉树](./src/swordoffer/7_重建二叉树.cpp)
+* [9_用两个栈实现队列](./src/swordoffer/9_用两个栈实现队列.cpp)
+* [10_i_斐波那契数列](./src/swordoffer/10_i_斐波那契数列.cpp)
+* [10_ii_青蛙跳台阶问题](./src/swordoffer/10_ii_青蛙跳台阶问题.cpp)
