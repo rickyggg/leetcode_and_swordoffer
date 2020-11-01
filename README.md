@@ -142,3 +142,6 @@
 * [9_用两个栈实现队列](./src/swordoffer/9_用两个栈实现队列.cpp)
 * [10_i_斐波那契数列](./src/swordoffer/10_i_斐波那契数列.cpp)
 * [10_ii_青蛙跳台阶问题](./src/swordoffer/10_ii_青蛙跳台阶问题.cpp)
+* [11_旋转数组的 最小数字](./src/swordoffer/11_旋转数组的最小数字.cpp)
+* [12_矩阵中的路径](./src/swordoffer/12_矩阵中的路径.cpp)
+* [13_机器人的运动范围](./src/swordoffer/13_机器人的运动范围.cpp)
