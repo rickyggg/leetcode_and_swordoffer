@@ -145,3 +145,6 @@
 * [11_旋转数组的 最小数字](./src/swordoffer/11_旋转数组的最小数字.cpp)
 * [12_矩阵中的路径](./src/swordoffer/12_矩阵中的路径.cpp)
 * [13_机器人的运动范围](./src/swordoffer/13_机器人的运动范围.cpp)
+* [14_i_剪绳子](./src/swordoffer/14_i_剪绳子.cpp)
+* [14_ii_剪绳子](./src/swordoffer/14_ii_剪绳子.cpp)
+* [15_二进制中1的个数](./src/swordoffer/15_二进制中1的个数.cpp)
