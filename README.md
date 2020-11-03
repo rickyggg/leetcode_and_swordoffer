@@ -148,3 +148,6 @@
 * [14_i_剪绳子](./src/swordoffer/14_i_剪绳子.cpp)
 * [14_ii_剪绳子](./src/swordoffer/14_ii_剪绳子.cpp)
 * [15_二进制中1的个数](./src/swordoffer/15_二进制中1的个数.cpp)
+* [16_数值的整数次方](./src/swordoffer/16_数值的整数次方.cpp)
+* [17_打印从1到最大的n位数](./src/swordoffer/17_打印从1到最大的n位数.cpp)
+* [18_删除链表的节点](./src/swordoffer/18_删除链表的节点.cpp)
