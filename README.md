@@ -151,3 +151,6 @@
 * [16_数值的整数次方](./src/swordoffer/16_数值的整数次方.cpp)
 * [17_打印从1到最大的n位数](./src/swordoffer/17_打印从1到最大的n位数.cpp)
 * [18_删除链表的节点](./src/swordoffer/18_删除链表的节点.cpp)
+* [22_链表中倒数第k个节点](./src/swordoffer/22_链表中倒数第k个节点.cpp)
+* [24_反转链表](./src/swordoffer/24_反转链表.cpp)
+* [25_合并两个排序的链表](./src/swordoffer/25_合并两个排序的链表.cpp)
