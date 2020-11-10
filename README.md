@@ -154,3 +154,6 @@
 * [22_链表中倒数第k个节点](./src/swordoffer/22_链表中倒数第k个节点.cpp)
 * [24_反转链表](./src/swordoffer/24_反转链表.cpp)
 * [25_合并两个排序的链表](./src/swordoffer/25_合并两个排序的链表.cpp)
+* [26_树的子结构](./src/swordoffer/26_树的子结构.cpp)
+* [27_二叉树的镜像](./src/swordoffer/27_二叉树的镜像.cpp)
+* [28_对称的二叉树](./src/swordoffer/28_对称的二叉树.cpp)
