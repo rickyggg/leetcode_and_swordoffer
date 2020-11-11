@@ -157,3 +157,6 @@
 * [26_树的子结构](./src/swordoffer/26_树的子结构.cpp)
 * [27_二叉树的镜像](./src/swordoffer/27_二叉树的镜像.cpp)
 * [28_对称的二叉树](./src/swordoffer/28_对称的二叉树.cpp)
+* [29_顺时针打印矩阵](./src/swordoffer/29_顺时针打印矩阵.cpp)
+* [30_包含min函数的栈](./src/swordoffer/30_包含min函数的栈.cpp)
+* [31_栈的压入、弹出 序列](./src/swordoffer/31_栈的压入、弹出 序列.cpp)
