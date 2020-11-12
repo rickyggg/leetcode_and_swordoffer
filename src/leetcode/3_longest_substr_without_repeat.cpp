@@ -1,14 +1,19 @@
 class Solution {
 public:
   int lengthOfLongestSubstring(string s) {
-    vector<int> dict(127, -1);
-    int max_len = 0, start = -1;
-    int n = s.size();
-    for (int i = 0; i < n; i++) {
-      if (dict[s[i]] > start)
-        start = dict[s[i]];
-      dict[s[i]] = i;
-      max_len = max(max_len, i - start);
+    unordered_map<char, int> m;
+    int left = 0, right = 0;
+    int max_len = 0;
+    while (right < s.size()) {
+      char r = s[right];
+      ++right;
+      ++m[r];
+      while (m[r] > 1) {
+        char l = s[left];
+        ++left;
+        --m[l];
+      }
+      max_len = max(max_len, right - left);
     }
     return max_len;
   }
