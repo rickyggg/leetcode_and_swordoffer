@@ -163,3 +163,6 @@
 * [32_i_从上到下打印二叉树](./src/swordoffer/32_i_从上到下打印二叉树.cpp)
 * [32_ii_从上到下打印二叉树](./src/swordoffer/32_ii_从上到下打印二叉树.cpp)
 * [32_iii_从上到下打印二叉树](./src/swordoffer/32_iii_从上到下打印二叉树.cpp)
+* [33_二叉搜索树的后序遍历序列](./src/swordoffer/33_二叉搜索树的后序遍历序列.cpp)
+* [34_二叉树中和为某一值的路径](./src/swordoffer/34_二叉树中和为某一值的路径.cpp)
+* [35_复杂链表的复制](./src/swordoffer/35_复杂链表的复制.cpp)
