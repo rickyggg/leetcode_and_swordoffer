@@ -166,3 +166,6 @@
 * [33_二叉搜索树的后序遍历序列](./src/swordoffer/33_二叉搜索树的后序遍历序列.cpp)
 * [34_二叉树中和为某一值的路径](./src/swordoffer/34_二叉树中和为某一值的路径.cpp)
 * [35_复杂链表的复制](./src/swordoffer/35_复杂链表的复制.cpp)
+* [36_二叉搜索树与双向链表](./src/swordoffer/36_二叉搜索树与双向链表.cpp)
+* [37_序列化二叉树](./src/swordoffer/37_序列化二叉树.cpp)
+* [38_字符串的排列](./src/swordoffer/38_字符串的排列.cpp)
