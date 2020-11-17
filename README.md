@@ -169,3 +169,7 @@
 * [36_二叉搜索树与双向链表](./src/swordoffer/36_二叉搜索树与双向链表.cpp)
 * [37_序列化二叉树](./src/swordoffer/37_序列化二叉树.cpp)
 * [38_字符串的排列](./src/swordoffer/38_字符串的排列.cpp)
+* [39_数组中出现次数超过一半的数字](./src/swordoffer/39_数组中出现次数超过一半的数字.cpp)
+* [40_最小的k个数](./src/swordoffer/40_最小的k个数.cpp)
+* [41_数据流中的中位数](./src/swordoffer/41_数据流中的中位数.cpp)
+* [42_连续子数组的最大和](./src/swordoffer/42_连续子数组的最大和.cpp)
