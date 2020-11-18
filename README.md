@@ -115,6 +115,7 @@
 * [q40_combination_sum_ii](./src/leetcode/40_combination_sum_ii.cpp)
 * [q46_permutations](./src/leetcode/46_permutations.cpp)
 * [q47_permutations_ii](./src/leetcode/47_permutations_ii.cpp)
+* [q79_单词搜索](./src/leetcode/79_单词搜索.cpp)
 
 ### 字典树（Trie）
 
@@ -173,3 +174,6 @@
 * [40_最小的k个数](./src/swordoffer/40_最小的k个数.cpp)
 * [41_数据流中的中位数](./src/swordoffer/41_数据流中的中位数.cpp)
 * [42_连续子数组的最大和](./src/swordoffer/42_连续子数组的最大和.cpp)
+* [43_1～n整数中1出现的次数](./src/swordoffer/43_1～n整数中1出现的次数.cpp)
+* [44_数字序列中某一位的数字](./src/swordoffer/44_数字序列中某一位的数字.cpp)
+* [45_把数组排成最小的数](./src/swordoffer/45_把数组排成最小的数.cpp)
