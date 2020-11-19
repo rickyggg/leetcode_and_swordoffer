@@ -73,9 +73,10 @@
 
 ### 单调栈
 
+* [q84_柱状图中最大的矩形](./src/leetcode/84_柱状图中最大的矩形.cpp)
 * [q496_next_greater_element_i](./src/leetcode/496_next_greater_element_i.cpp)
 * [q503_next_greater_element_ii](./src/leetcode/503_next_greater_element_ii.cpp)
-* [q1118_number_of_days_in_a_month](./src/leetcode/1118_number_of_days_in_a_month.cpp)
+* [q739.每日温度](./src/leetcode/739.每日温度.cpp)
 
 ### 堆
 
@@ -177,3 +178,6 @@
 * [43_1～n整数中1出现的次数](./src/swordoffer/43_1～n整数中1出现的次数.cpp)
 * [44_数字序列中某一位的数字](./src/swordoffer/44_数字序列中某一位的数字.cpp)
 * [45_把数组排成最小的数](./src/swordoffer/45_把数组排成最小的数.cpp)
+* [46_把数字翻译成字符串](./src/swordoffer/46_把数字翻译成字符串.cpp)
+* [47_礼物的最大价值](./src/swordoffer/47_礼物的最大价值.cpp)
+* [48_最长不含重复字符的子字符串](./src/swordoffer/48_最长不含重复字符的子字符串.cpp)
