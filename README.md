@@ -181,3 +181,6 @@
 * [46_把数字翻译成字符串](./src/swordoffer/46_把数字翻译成字符串.cpp)
 * [47_礼物的最大价值](./src/swordoffer/47_礼物的最大价值.cpp)
 * [48_最长不含重复字符的子字符串](./src/swordoffer/48_最长不含重复字符的子字符串.cpp)
+* [49_丑数](./src/swordoffer/49_丑数.cpp)
+* [50_第一个只出现一次的字符](./src/swordoffer/50_第一个只出现一次的字符.cpp)
+* [51_数组中的逆序对](./src/swordoffer/51_数组中的逆序对.cpp)
