@@ -1,13 +1,12 @@
 class Solution {
 public:
-  bool Valid(TreeNode *root, TreeNode *min_node, TreeNode *max_node) {
+  bool Valid(TreeNode *root, long min_val, long max_val) {
     if (!root)
       return true;
-    if (min_node && root->val <= min_node->val ||
-        max_node && root->val >= max_node->val)
+    if (root->val <= min_val || root->val >= max_val)
       return false;
-    return Valid(root->left, min_node, root) &&
-           Valid(root->right, root, max_node);
+    return Valid(root->left, min_val, root->val) &&
+           Valid(root->right, root->val, max_val);
   }
-  bool isValidBST(TreeNode *root) { return Valid(root, nullptr, nullptr); }
+  bool isValidBST(TreeNode *root) { return Valid(root, LONG_MIN, LONG_MAX); }
 };
