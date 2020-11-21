@@ -184,3 +184,7 @@
 * [49_丑数](./src/swordoffer/49_丑数.cpp)
 * [50_第一个只出现一次的字符](./src/swordoffer/50_第一个只出现一次的字符.cpp)
 * [51_数组中的逆序对](./src/swordoffer/51_数组中的逆序对.cpp)
+* [52_两个链表的第一个公共节点](./src/swordoffer/52_两个链表的第一个公共节点.cpp)
+* [53_0～n-1中缺失的数字](./src/swordoffer/53_0～n-1中缺失的数字.cpp)
+* [53_在排序数组中查找数字_i](./src/swordoffer/53_在排序数组中查找数字_i.cpp)
+* [54_二叉搜索树的第k大节点](./src/swordoffer/54_二叉搜索树的第k大节点.cpp)
