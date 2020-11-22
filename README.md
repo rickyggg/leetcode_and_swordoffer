@@ -188,3 +188,5 @@
 * [53_0～n-1中缺失的数字](./src/swordoffer/53_0～n-1中缺失的数字.cpp)
 * [53_在排序数组中查找数字_i](./src/swordoffer/53_在排序数组中查找数字_i.cpp)
 * [54_二叉搜索树的第k大节点](./src/swordoffer/54_二叉搜索树的第k大节点.cpp)
+* [55_i_二叉树的深度](./src/swordoffer/55_i_二叉树的深度.cpp)
+* [55_ii_平衡二叉树](./src/swordoffer/55_ii_平衡二叉树.cpp)
