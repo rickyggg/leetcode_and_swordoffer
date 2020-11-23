@@ -190,3 +190,5 @@
 * [54_二叉搜索树的第k大节点](./src/swordoffer/54_二叉搜索树的第k大节点.cpp)
 * [55_i_二叉树的深度](./src/swordoffer/55_i_二叉树的深度.cpp)
 * [55_ii_平衡二叉树](./src/swordoffer/55_ii_平衡二叉树.cpp)
+* [56_i_数组中数字出现的次数](./src/swordoffer/56_i_数组中数字出现的次数.cpp)
+* [56_ii_数组中数字出现的次数](./src/swordoffer/56_ii_数组中数字出现的次数.cpp)
