@@ -193,3 +193,4 @@
 * [56_i_数组中数字出现的次数](./src/swordoffer/56_i_数组中数字出现的次数.cpp)
 * [56_ii_数组中数字出现的次数](./src/swordoffer/56_ii_数组中数字出现的次数.cpp)
 * [57_和为s的两个数字](./src/swordoffer/57_和为s的两个数字.cpp)
+* [57_ii_和为s的连续正数序列](./src/swordoffer/57_ii_和为s的连续正数序列.cpp)
