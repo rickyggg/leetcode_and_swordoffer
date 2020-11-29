@@ -196,3 +196,5 @@
 * [57_ii_和为s的连续正数序列](./src/swordoffer/57_ii_和为s的连续正数序列.cpp)
 * [58_翻转单词顺序](./src/swordoffer/58_翻转单词顺序.cpp)
 * [58_ii_左旋转字符串](./src/swordoffer/58_ii_左旋转字符串.cpp)
+* [59_i_滑动窗口的最大值](./src/swordoffer/59_i_滑动窗口的最大值.cpp)
+* [59_ii_队列的最大值](./src/swordoffer/59_ii_队列的最大值.cpp)
