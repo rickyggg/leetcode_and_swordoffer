@@ -7,7 +7,7 @@ public:
     
     void addNum(int num) {
         int size = min.size() + max.size();
-        if ((size & 0x1) == 0) {
+        if (size & 0x1 == 0x1) {
             if (!max.empty() && num < max[0]) {
                 max.push_back(num);
                 push_heap(max.begin(), max.end(), less<int>());
