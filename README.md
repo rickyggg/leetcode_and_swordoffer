@@ -20,7 +20,6 @@
 
 ### 双指针
 
-* [q3_longest_substr_without_repeat](./src/leetcode/3_longest_substr_without_repeat.cpp)
 * [q11_container_with_most_water](./src/leetcode/11_container_with_most_water.cpp)
 * [q15_3_sum](./src/leetcode/15_3_sum.cpp)
 * [q16_3_sum_closest](./src/leetcode/16_3_sum_cloest.cpp)
@@ -35,6 +34,13 @@
 * [q141_linked_list_cycle](./src/leetcode/141_linked_list_cycle.cpp)
 * [q202_happy_number](./src/leetcode/202_happy_number.cpp)
 * [q876_middle_of_the_linked_list](./src/leetcode/876_middle_of_the_linked_list.cpp)
+
+### 滑动窗口
+
+* [q3_longest_substr_without_repeat](./src/leetcode/3_longest_substr_without_repeat.cpp)
+* [q76_最小覆盖子串](./src/leetcode/76_最小覆盖子串.cpp)
+* [q438_找到字符串中所有字母异位词](./src/leetcode/438_找到字符串中所有字母异位词.cpp)
+* [q567_字符串的排列](./src/leetcode/567_字符串的排列.cpp)
 
 ### 区间合并
 
