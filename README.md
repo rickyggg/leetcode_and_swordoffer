@@ -115,6 +115,17 @@
 * [q300_longest_increasing_subsequence](./src/leetcode/300_longest_increasing_subsequence.cpp)
 * [q1143_longest_common_subsequence](./src/leetcode/1143_longest_common_subsequence.cpp)
 
+### 0-1背包
+
+* [q416_分割等和子集](./src/leetcode/416_分割等和子集.cpp)
+* [q474_一和零]
+* [q494_目标和](./src/leetcode/494_目标和.cpp)
+
+### 完全背包
+
+* [q322_零钱兑换]
+* [q518_零钱兑换ii]
+
 ### 回溯
 
 * [q10_regular_expression_matching](./src/leetcode/10_regular_expression_matching.cpp)
