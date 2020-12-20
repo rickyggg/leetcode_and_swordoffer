@@ -216,4 +216,5 @@
 * [59_i_滑动窗口的最大值](./src/swordoffer/59_i_滑动窗口的最大值.cpp)
 * [59_ii_队列的最大值](./src/swordoffer/59_ii_队列的最大值.cpp)
 * [60_n个骰子的点数](./src/swordoffer/60_n个骰子的点数.cpp)
-* [61_扑克牌中的顺子.cpp](./src/swordoffer/61_扑克牌中的顺子.cpp)
+* [61_扑克牌中的顺子](./src/swordoffer/61_扑克牌中的顺子.cpp)
+* [62_圆圈中最后剩下的数字](./src/swordoffer/62_圆圈中最后剩下的数字.cpp)
