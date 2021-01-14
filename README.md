@@ -153,6 +153,10 @@
 * [q450_delete_node_in_a_bst](./src/leetcode/450_delete_node_in_a_bst.cpp)
 * [q701_insert_into_a_binary_search_tree](./src/leetcode/701_insert_into_a_binary_search_tree.cpp)
 
+### 并查集
+
+* [q684_冗余连接](./src/leetcode/684_冗余连接.cpp)
+
 ## 剑指Offer
 
 * [3_数组中重复的数字](./src/swordoffer/3_数组中重复的数字.cpp)
