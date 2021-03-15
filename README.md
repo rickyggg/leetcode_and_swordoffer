@@ -117,7 +117,7 @@
 
 ### 树形DP
 
-* [q337_打家劫舍III](./src/leetcode/337_打家劫舍III.cpp)
+* [q337_打家劫舍III](./src/leetcode/337_打家劫舍III.cpp)
 
 ### 0-1背包
 
