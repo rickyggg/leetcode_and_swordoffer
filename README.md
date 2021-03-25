@@ -99,6 +99,7 @@
 
 ### 分治/二分查找
 
+* [q4_寻找两个正序数组的中位数](./src/leetcode/4_寻找两个正序数组的中位数.cpp)
 * [q23_merge_k_sorted_lists](./src/leetcode/23_merge_k_sorted_lists.cpp)
 * [q33_search_in_rotated_sorted_array](./src/leetcode/33_search_in_rotated_sorted_array.cpp)
 * [q34_find_first_and_last_position_of_element_in_sorted_array](./src/leetcode/34_find_first_and_last_position_of_element_in_sorted_array.cpp)
