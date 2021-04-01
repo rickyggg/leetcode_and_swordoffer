@@ -114,6 +114,7 @@
 * [q70_climbing_stairs](./src/leetcode/70_climbing_stairs.cpp)
 * [q118_pascals_triangle](./src/leetcode/118_pascals_triangle.cpp)
 * [q300_longest_increasing_subsequence](./src/leetcode/300_longest_increasing_subsequence.cpp)
+* [q718_最长重复子数组](./src/leetcode/718_最长重复子数组.cpp)
 * [q1143_longest_common_subsequence](./src/leetcode/1143_longest_common_subsequence.cpp)
 
 ### 树形DP
