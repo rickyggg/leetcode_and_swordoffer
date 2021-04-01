@@ -82,7 +82,7 @@
 * [q84_柱状图中最大的矩形](./src/leetcode/84_柱状图中最大的矩形.cpp)
 * [q496_next_greater_element_i](./src/leetcode/496_next_greater_element_i.cpp)
 * [q503_next_greater_element_ii](./src/leetcode/503_next_greater_element_ii.cpp)
-* [q739.每日温度](./src/leetcode/739.每日温度.cpp)
+* [q739_每日温度](./src/leetcode/739_每日温度.cpp)
 
 ### 堆
 
