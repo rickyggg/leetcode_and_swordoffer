@@ -143,6 +143,7 @@
 
 ### 字典树（Trie）
 
+* [q421_数组中两个数的最大异或值](./src/leetcode/421_数组中两个数的最大异或值.cpp)
 * [q648_replace_words](./src/leetcode/648_replace_words.cpp)
 
 ### 树的遍历
