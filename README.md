@@ -104,6 +104,7 @@
 * [q33_search_in_rotated_sorted_array](./src/leetcode/33_search_in_rotated_sorted_array.cpp)
 * [q34_find_first_and_last_position_of_element_in_sorted_array](./src/leetcode/34_find_first_and_last_position_of_element_in_sorted_array.cpp)
 * [q410_split_array_largest_sum](./src/leetcode/410_split_array_largest_sum.cpp)
+* [q5786_可移除字符的最大数目](./src/leetcode/5786_可移除字符的最大数目.cpp)
 
 ### 动态规划
 
